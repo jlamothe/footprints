@@ -1,5 +1,5 @@
 
-Element["" "Arduino UNO-compatible board" "" "" 400000 400000 0 -12500 0 100 ""]
+Element["" "Arduino UNO-Compatible Device" "" "" 400000 400000 0 -12500 0 100 ""]
 (
 	Pin[120000 0 7500 2000 8100 3000 "" "12" ""]
 	Pin[110000 0 7500 2000 8100 3000 "" "11" ""]
